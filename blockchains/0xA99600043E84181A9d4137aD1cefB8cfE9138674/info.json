@@ -1,0 +1,32 @@
+{
+    "name": "FX Stock Token",
+    "website": "https://fxst.org/",
+    "description": "Fx$tock token is a world-class leading token in the most revenue generating industry, first is Gaming zone & the 2nd is Trading zone. Both industries create trillions of dollars’ volume in a day throughout the world. Fx$tock token provides a next-gen technologies platform for young entrepreneurs, they will be making online money without any limits and no boundaries.",
+    "explorer": "https://bscscan.com/token/0xA99600043E84181A9d4137aD1cefB8cfE9138674",
+    "research": "https://drive.google.com/file/d/1YlIhhCiZH6QnupzEFtCFPtricUx_6zkv/view",
+    "symbol": "FXST",
+    "type": "token",
+    "decimals": 6,
+    "status": "active",
+    "tags": [
+        "gaming-Defi"
+    ],
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/fxg/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/fxsttoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fxsttoken"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/fxsttoken"
+        }
+    ]
+}
