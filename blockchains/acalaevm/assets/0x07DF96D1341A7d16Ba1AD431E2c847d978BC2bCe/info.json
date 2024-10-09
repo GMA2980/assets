@@ -1,36 +1,32 @@
 {
-    "name": "USD Coin",
-    "website": "https://centre.io/usdc",
-    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
-    "explorer": "https://blockscout.acala.network/token/0x07DF96D1341A7d16Ba1AD431E2c847d978BC2bCe",
-    "type": "ACALAEVM",
-    "symbol": "USDC",
-    "decimals": 6,
+    "name": "UBIT COIN",
+    "website": "https://ubitcoin.in/",
+    "description": "At the heart of Ubit Coin lies its robust blockchain, powered by cutting-edge technology that ensures secure transactions, transparency, and immutability.",
+    "explorer": "https://ubitscan.io/token/0x76A9319EFA3020D73905D64F0e2E3E97f9F11394/token-transfers",
+    "type": "ERC-20",
+    "symbol": "UBIT",
+    "decimals": 18,
     "status": "active",
-    "id": "0x07DF96D1341A7d16Ba1AD431E2c847d978BC2bCe",
+    "id": "90002",
     "tags": [
-        "stablecoin"
+        "Payment"
     ],
     "links": [
         {
-            "name": "github",
-            "url": "https://github.com/centrehq"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/centre-blog"
+            "name": "Twitter",
+            "url": "https://twitter.com/Ubit_coin"
         },
         {
             "name": "whitepaper",
-            "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
+            "url": "https://ubitcoin.in/wp-content/uploads/2024/03/UBITCOIN-WHITEPAPER.pdf"
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+            "url": "https://coinmarketcap.com/currencies/ubit/"
         },
         {
             "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/usd-coin/"
+            "url": "https://www.coingecko.com/en/coins/ubit"
         }
     ]
 }
